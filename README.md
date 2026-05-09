@@ -28,7 +28,7 @@ Face-Mask-Detection-AI/
 └── README.md
 ⚙️ Installation
 1. Clone repository
-git clone https://github.com/your-username/Face-Mask-Detection-Ai-Model.git
+git clone https://github.com/SaniaSalahuddin/Face-Mask-Detection-Ai-Model.git
 cd Face-Mask-Detection-Ai-Model
 2. Create virtual environment
 python -m venv venv
